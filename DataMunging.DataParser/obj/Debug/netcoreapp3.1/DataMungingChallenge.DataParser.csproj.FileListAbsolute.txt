@@ -1,0 +1,13 @@
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.deps.json
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.dll
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.pdb
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.CompareType.dll
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.CompareType.pdb
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.csproj.AssemblyReference.cache
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.AssemblyInfoInputs.cache
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.AssemblyInfo.cs
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.csproj.CoreCompileInputs.cache
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.csproj.CopyComplete
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.dll
+D:\Assessment\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.pdb
